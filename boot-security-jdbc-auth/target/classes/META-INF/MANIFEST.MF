@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: xiaoy
+Build-Jdk: 17.0.5
+Implementation-Title: boot-form-handling
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/boot-security-jdbc-auth
+Created-By: Maven Integration for Eclipse
+
